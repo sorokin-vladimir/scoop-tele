@@ -1,0 +1,22 @@
+{
+    "version": "1.8.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sorokin-vladimir/tele/releases/download/v1.8.1/tele_windows_amd64.zip",
+            "bin": [
+                "tele.exe"
+            ],
+            "hash": "233a7bad0afa9edc28949c1f3119bb333b1dfe3203c247b6353121f8b688547b"
+        },
+        "arm64": {
+            "url": "https://github.com/sorokin-vladimir/tele/releases/download/v1.8.1/tele_windows_arm64.zip",
+            "bin": [
+                "tele.exe"
+            ],
+            "hash": "ff43dae3d072ee34b6f1c262c9bb33f78c8231706f8ce855820cbe44dcf01904"
+        }
+    },
+    "homepage": "https://github.com/sorokin-vladimir/tele",
+    "license": "MIT",
+    "description": "TUI Telegram client for the terminal."
+}
