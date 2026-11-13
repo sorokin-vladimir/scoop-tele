@@ -1,19 +1,19 @@
 {
-    "version": "2.1.2",
+    "version": "2.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_windows_amd64.zip",
+            "url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_windows_amd64.zip",
             "bin": [
                 "tele.exe"
             ],
-            "hash": "a740107e992e4c52632b5230f41413997806c3d195f0d4d44d94c19e9626a708"
+            "hash": "3bb4b9d403e8b77112a79dc8aab5488f12d504e677114c129362c4ca4ef39b14"
         },
         "arm64": {
-            "url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.2/tele_windows_arm64.zip",
+            "url": "https://github.com/sorokin-vladimir/tele/releases/download/v2.1.3/tele_windows_arm64.zip",
             "bin": [
                 "tele.exe"
             ],
-            "hash": "f96d5528a1982ec1dc2cf384ff5ca7b48ad2edcc7b4d6793ff4e3f57655c7d99"
+            "hash": "2d0c63df6bb6a1c0512e65851ee269e77e3c57ce460a93fdd6b462173f48e00e"
         }
     },
     "homepage": "https://github.com/sorokin-vladimir/tele",
